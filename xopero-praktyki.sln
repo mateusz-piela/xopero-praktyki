@@ -7,8 +7,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hello", "Hello\Hello.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ratuj ludzi", "Ratuj ludzi\Ratuj ludzi.csproj", "{94888F3F-E0C0-490B-AB94-A7610C30868E}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Angular", "Angular\Angular.csproj", "{4EEC3883-738E-40BC-9AC9-FB1E3CC1DDEF}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConnectFour", "ConnectFour\ConnectFour.csproj", "{C3184905-99D9-4079-BDC5-425649D9E1EF}"
 EndProject
 Global
@@ -25,10 +23,6 @@ Global
 		{94888F3F-E0C0-490B-AB94-A7610C30868E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{94888F3F-E0C0-490B-AB94-A7610C30868E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{94888F3F-E0C0-490B-AB94-A7610C30868E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{4EEC3883-738E-40BC-9AC9-FB1E3CC1DDEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4EEC3883-738E-40BC-9AC9-FB1E3CC1DDEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4EEC3883-738E-40BC-9AC9-FB1E3CC1DDEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4EEC3883-738E-40BC-9AC9-FB1E3CC1DDEF}.Release|Any CPU.Build.0 = Release|Any CPU
 		{C3184905-99D9-4079-BDC5-425649D9E1EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{C3184905-99D9-4079-BDC5-425649D9E1EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C3184905-99D9-4079-BDC5-425649D9E1EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
